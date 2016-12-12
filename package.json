@@ -15,7 +15,7 @@
     "reporter"
   ],
   "devDependencies": {
-    "eslint": "^3.7.1",
+    "eslint": "^3.12.1",
     "eslint-config-pedant": "^0.8.0"
   },
   "scripts": {
